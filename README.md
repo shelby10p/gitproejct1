@@ -1,2 +1,2 @@
-# gitproejct1
+# gitprojec1
 This is my 1st github project
